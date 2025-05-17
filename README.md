@@ -7,9 +7,16 @@
 
 ---
 
-### 🧑‍💻 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chathurakalankal/)
-📧 chathurakalankal@gmail.com
+## Connect with me
+
+<p align="left">
+  <a href="mailto:chathurakasandaruwan99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chathuraka-lk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ---
 
